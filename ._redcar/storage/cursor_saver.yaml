@@ -6,4 +6,7 @@ cursor_positions:
   - :path: app/controllers/application_controller.rb
     :cursor_offset: 80
     :timestamp: 2012-05-11 22:53:51.382000 +03:00
+  - :path: Gemfile
+    :cursor_offset: 168
+    :timestamp: 2012-05-12 00:12:22.790000 +03:00
 files_to_retain: 0
